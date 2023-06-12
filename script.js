@@ -1,3 +1,4 @@
 "use strict";
 
-console.log("Verzija 03");
+console.log("Verzija 05");
+console.log("Update");
