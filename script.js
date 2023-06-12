@@ -1,4 +1,4 @@
 "use strict";
 
-console.log("Verzija 05");
-console.log("Update");
+console.log("Verzija 11");
+console.log("Ispravak Greške");
